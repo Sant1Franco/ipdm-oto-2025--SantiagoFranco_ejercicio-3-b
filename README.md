@@ -8,5 +8,5 @@ Aplicación Android desarrollada en Kotlin con Jetpack Compose que muestra un me
 - Texto con estilo personalizado (tamaño de fuente y alineación).  
 - Diseño responsive para diferentes tamaños de pantalla.  
 
-## Captura de Pantalla  
-![App en ejecución](Captura_3b.png)
+## Captura de Pantalla
+![Vista previa de la app](Captura3-b.png)
